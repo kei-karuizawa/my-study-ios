@@ -16,6 +16,11 @@
 		CA5282662BFAFB4200645ED3 /* MyStudyiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5282652BFAFB4200645ED3 /* MyStudyiOSTests.swift */; };
 		CA5282702BFAFB4200645ED3 /* MyStudyiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA52826F2BFAFB4200645ED3 /* MyStudyiOSUITests.swift */; };
 		CA5282722BFAFB4200645ED3 /* MyStudyiOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5282712BFAFB4200645ED3 /* MyStudyiOSUITestsLaunchTests.swift */; };
+		CA5282892BFB30B600645ED3 /* ViewReusePool.m in Sources */ = {isa = PBXBuildFile; fileRef = CA5282882BFB30B600645ED3 /* ViewReusePool.m */; };
+		CA52828C2BFB33AF00645ED3 /* IndexedTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = CA52828B2BFB33AF00645ED3 /* IndexedTableView.m */; };
+		CA52828F2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA52828E2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m */; };
+		CAA14FE92BFC47FF00B27FAD /* CustomButton.m in Sources */ = {isa = PBXBuildFile; fileRef = CAA14FE82BFC47FF00B27FAD /* CustomButton.m */; };
+		CAA14FEC2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CAA14FEB2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +54,21 @@
 		CA52826B2BFAFB4200645ED3 /* MyStudyiOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyStudyiOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA52826F2BFAFB4200645ED3 /* MyStudyiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStudyiOSUITests.swift; sourceTree = "<group>"; };
 		CA5282712BFAFB4200645ED3 /* MyStudyiOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStudyiOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CA52827F2BFB083800645ED3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CA5282812BFB1E6400645ED3 /* 2-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-1.md"; sourceTree = "<group>"; };
+		CA5282822BFB207400645ED3 /* 2-2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-2.md"; sourceTree = "<group>"; };
+		CA5282842BFB2F8D00645ED3 /* 3-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-1.md"; sourceTree = "<group>"; };
+		CA5282862BFB30B600645ED3 /* MyStudyiOS-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyStudyiOS-Bridging-Header.h"; sourceTree = "<group>"; };
+		CA5282872BFB30B600645ED3 /* ViewReusePool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewReusePool.h; sourceTree = "<group>"; };
+		CA5282882BFB30B600645ED3 /* ViewReusePool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewReusePool.m; sourceTree = "<group>"; };
+		CA52828A2BFB33AF00645ED3 /* IndexedTableView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IndexedTableView.h; sourceTree = "<group>"; };
+		CA52828B2BFB33AF00645ED3 /* IndexedTableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IndexedTableView.m; sourceTree = "<group>"; };
+		CA52828D2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course31Example1ViewController.h; sourceTree = "<group>"; };
+		CA52828E2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course31Example1ViewController.m; sourceTree = "<group>"; };
+		CAA14FE72BFC47FF00B27FAD /* CustomButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomButton.h; sourceTree = "<group>"; };
+		CAA14FE82BFC47FF00B27FAD /* CustomButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomButton.m; sourceTree = "<group>"; };
+		CAA14FEA2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course31Example2ViewController.h; sourceTree = "<group>"; };
+		CAA14FEB2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course31Example2ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,10 +119,12 @@
 		CA52824D2BFAFB4100645ED3 /* MyStudyiOS */ = {
 			isa = PBXGroup;
 			children = (
+				CA52827E2BFAFDCB00645ED3 /* MKSZ202-study */,
 				CA52824E2BFAFB4100645ED3 /* AppDelegate.swift */,
 				CA5282502BFAFB4100645ED3 /* SceneDelegate.swift */,
 				CA5282522BFAFB4100645ED3 /* ViewController.swift */,
 				CA5282542BFAFB4100645ED3 /* Main.storyboard */,
+				CA5282862BFB30B600645ED3 /* MyStudyiOS-Bridging-Header.h */,
 				CA5282572BFAFB4200645ED3 /* Assets.xcassets */,
 				CA5282592BFAFB4200645ED3 /* LaunchScreen.storyboard */,
 				CA52825C2BFAFB4200645ED3 /* Info.plist */,
@@ -125,6 +147,67 @@
 				CA5282712BFAFB4200645ED3 /* MyStudyiOSUITestsLaunchTests.swift */,
 			);
 			path = MyStudyiOSUITests;
+			sourceTree = "<group>";
+		};
+		CA52827E2BFAFDCB00645ED3 /* MKSZ202-study */ = {
+			isa = PBXGroup;
+			children = (
+				CA5282802BFB1E1700645ED3 /* Chapter2 */,
+				CA5282832BFB2F5F00645ED3 /* Chapter3 */,
+				CA52827F2BFB083800645ED3 /* README.md */,
+			);
+			path = "MKSZ202-study";
+			sourceTree = "<group>";
+		};
+		CA5282802BFB1E1700645ED3 /* Chapter2 */ = {
+			isa = PBXGroup;
+			children = (
+				CA5282812BFB1E6400645ED3 /* 2-1.md */,
+				CA5282822BFB207400645ED3 /* 2-2.md */,
+			);
+			path = Chapter2;
+			sourceTree = "<group>";
+		};
+		CA5282832BFB2F5F00645ED3 /* Chapter3 */ = {
+			isa = PBXGroup;
+			children = (
+				CAA14FE52BFC419F00B27FAD /* 3-1 */,
+			);
+			path = Chapter3;
+			sourceTree = "<group>";
+		};
+		CA5282852BFB308000645ED3 /* Example1 */ = {
+			isa = PBXGroup;
+			children = (
+				CA52828A2BFB33AF00645ED3 /* IndexedTableView.h */,
+				CA52828B2BFB33AF00645ED3 /* IndexedTableView.m */,
+				CA52828D2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.h */,
+				CA52828E2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m */,
+				CA5282872BFB30B600645ED3 /* ViewReusePool.h */,
+				CA5282882BFB30B600645ED3 /* ViewReusePool.m */,
+			);
+			path = Example1;
+			sourceTree = "<group>";
+		};
+		CAA14FE52BFC419F00B27FAD /* 3-1 */ = {
+			isa = PBXGroup;
+			children = (
+				CA5282842BFB2F8D00645ED3 /* 3-1.md */,
+				CA5282852BFB308000645ED3 /* Example1 */,
+				CAA14FE62BFC47AA00B27FAD /* Example2 */,
+			);
+			path = "3-1";
+			sourceTree = "<group>";
+		};
+		CAA14FE62BFC47AA00B27FAD /* Example2 */ = {
+			isa = PBXGroup;
+			children = (
+				CAA14FE72BFC47FF00B27FAD /* CustomButton.h */,
+				CAA14FE82BFC47FF00B27FAD /* CustomButton.m */,
+				CAA14FEA2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.h */,
+				CAA14FEB2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m */,
+			);
+			path = Example2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,6 +278,7 @@
 				TargetAttributes = {
 					CA52824A2BFAFB4100645ED3 = {
 						CreatedOnToolsVersion = 15.4;
+						LastSwiftMigration = 1540;
 					};
 					CA5282602BFAFB4200645ED3 = {
 						CreatedOnToolsVersion = 15.4;
@@ -260,7 +344,12 @@
 			files = (
 				CA5282532BFAFB4100645ED3 /* ViewController.swift in Sources */,
 				CA52824F2BFAFB4100645ED3 /* AppDelegate.swift in Sources */,
+				CA52828F2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m in Sources */,
+				CAA14FE92BFC47FF00B27FAD /* CustomButton.m in Sources */,
 				CA5282512BFAFB4100645ED3 /* SceneDelegate.swift in Sources */,
+				CAA14FEC2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m in Sources */,
+				CA52828C2BFB33AF00645ED3 /* IndexedTableView.m in Sources */,
+				CA5282892BFB30B600645ED3 /* ViewReusePool.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -440,6 +529,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -457,6 +547,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.shizuku.MyStudyiOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "MyStudyiOS/MyStudyiOS-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -467,6 +559,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -484,6 +577,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.shizuku.MyStudyiOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "MyStudyiOS/MyStudyiOS-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
