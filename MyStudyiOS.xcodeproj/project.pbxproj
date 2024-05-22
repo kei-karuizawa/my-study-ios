@@ -21,6 +21,9 @@
 		CA52828F2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA52828E2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m */; };
 		CAA14FE92BFC47FF00B27FAD /* CustomButton.m in Sources */ = {isa = PBXBuildFile; fileRef = CAA14FE82BFC47FF00B27FAD /* CustomButton.m */; };
 		CAA14FEC2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CAA14FEB2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m */; };
+		CAC960E02BFDC4980035D2F2 /* MObject.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960DF2BFDC4980035D2F2 /* MObject.m */; };
+		CAC960E32BFDC54F0035D2F2 /* MObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960E22BFDC54F0035D2F2 /* MObserver.m */; };
+		CAC960E72BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960E62BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +72,13 @@
 		CAA14FE82BFC47FF00B27FAD /* CustomButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomButton.m; sourceTree = "<group>"; };
 		CAA14FEA2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course31Example2ViewController.h; sourceTree = "<group>"; };
 		CAA14FEB2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course31Example2ViewController.m; sourceTree = "<group>"; };
+		CAC960DC2BFD8D7F0035D2F2 /* 4-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-1.md"; sourceTree = "<group>"; };
+		CAC960DE2BFDC4980035D2F2 /* MObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MObject.h; sourceTree = "<group>"; };
+		CAC960DF2BFDC4980035D2F2 /* MObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MObject.m; sourceTree = "<group>"; };
+		CAC960E12BFDC54F0035D2F2 /* MObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MObserver.h; sourceTree = "<group>"; };
+		CAC960E22BFDC54F0035D2F2 /* MObserver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MObserver.m; sourceTree = "<group>"; };
+		CAC960E52BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course41Example1AppDelegate.h; sourceTree = "<group>"; };
+		CAC960E62BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course41Example1AppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,6 +164,7 @@
 			children = (
 				CA5282802BFB1E1700645ED3 /* Chapter2 */,
 				CA5282832BFB2F5F00645ED3 /* Chapter3 */,
+				CAC960DB2BFD8D620035D2F2 /* Chapter4 */,
 				CA52827F2BFB083800645ED3 /* README.md */,
 			);
 			path = "MKSZ202-study";
@@ -208,6 +219,36 @@
 				CAA14FEB2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m */,
 			);
 			path = Example2;
+			sourceTree = "<group>";
+		};
+		CAC960DB2BFD8D620035D2F2 /* Chapter4 */ = {
+			isa = PBXGroup;
+			children = (
+				CAC960E42BFDC58D0035D2F2 /* 4-1 */,
+				CAC960DC2BFD8D7F0035D2F2 /* 4-1.md */,
+			);
+			path = Chapter4;
+			sourceTree = "<group>";
+		};
+		CAC960DD2BFDC46C0035D2F2 /* Example1 */ = {
+			isa = PBXGroup;
+			children = (
+				CAC960DE2BFDC4980035D2F2 /* MObject.h */,
+				CAC960DF2BFDC4980035D2F2 /* MObject.m */,
+				CAC960E12BFDC54F0035D2F2 /* MObserver.h */,
+				CAC960E22BFDC54F0035D2F2 /* MObserver.m */,
+				CAC960E52BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.h */,
+				CAC960E62BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m */,
+			);
+			path = Example1;
+			sourceTree = "<group>";
+		};
+		CAC960E42BFDC58D0035D2F2 /* 4-1 */ = {
+			isa = PBXGroup;
+			children = (
+				CAC960DD2BFDC46C0035D2F2 /* Example1 */,
+			);
+			path = "4-1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -343,13 +384,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA5282532BFAFB4100645ED3 /* ViewController.swift in Sources */,
+				CAC960E32BFDC54F0035D2F2 /* MObserver.m in Sources */,
 				CA52824F2BFAFB4100645ED3 /* AppDelegate.swift in Sources */,
 				CA52828F2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m in Sources */,
 				CAA14FE92BFC47FF00B27FAD /* CustomButton.m in Sources */,
 				CA5282512BFAFB4100645ED3 /* SceneDelegate.swift in Sources */,
 				CAA14FEC2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m in Sources */,
 				CA52828C2BFB33AF00645ED3 /* IndexedTableView.m in Sources */,
+				CAC960E02BFDC4980035D2F2 /* MObject.m in Sources */,
 				CA5282892BFB30B600645ED3 /* ViewReusePool.m in Sources */,
+				CAC960E72BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
