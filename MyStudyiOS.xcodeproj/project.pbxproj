@@ -44,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CA4C00732C00C20E00803679 /* 5-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "5-1.md"; sourceTree = "<group>"; };
 		CA52824B2BFAFB4100645ED3 /* MyStudyiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyStudyiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA52824E2BFAFB4100645ED3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CA5282502BFAFB4100645ED3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +107,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CA4C00722C00C1E900803679 /* Chapter5 */ = {
+			isa = PBXGroup;
+			children = (
+				CA4C00732C00C20E00803679 /* 5-1.md */,
+			);
+			path = Chapter5;
+			sourceTree = "<group>";
+		};
 		CA5282422BFAFB4100645ED3 = {
 			isa = PBXGroup;
 			children = (
@@ -165,6 +174,7 @@
 				CA5282802BFB1E1700645ED3 /* Chapter2 */,
 				CA5282832BFB2F5F00645ED3 /* Chapter3 */,
 				CAC960DB2BFD8D620035D2F2 /* Chapter4 */,
+				CA4C00722C00C1E900803679 /* Chapter5 */,
 				CA52827F2BFB083800645ED3 /* README.md */,
 			);
 			path = "MKSZ202-study";
