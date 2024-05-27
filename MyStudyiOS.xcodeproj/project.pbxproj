@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CA2EB04A2C04CE790043B05C /* NSTimer+WeakTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = CA2EB0492C04CE790043B05C /* NSTimer+WeakTimer.m */; };
 		CA52824F2BFAFB4100645ED3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA52824E2BFAFB4100645ED3 /* AppDelegate.swift */; };
 		CA5282512BFAFB4100645ED3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5282502BFAFB4100645ED3 /* SceneDelegate.swift */; };
 		CA5282532BFAFB4100645ED3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5282522BFAFB4100645ED3 /* ViewController.swift */; };
@@ -44,6 +45,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CA2EB0472C04B1AF0043B05C /* 6-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "6-1.md"; sourceTree = "<group>"; };
+		CA2EB0482C04CE790043B05C /* NSTimer+WeakTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+WeakTimer.h"; sourceTree = "<group>"; };
+		CA2EB0492C04CE790043B05C /* NSTimer+WeakTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+WeakTimer.m"; sourceTree = "<group>"; };
 		CA4C00732C00C20E00803679 /* 5-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "5-1.md"; sourceTree = "<group>"; };
 		CA52824B2BFAFB4100645ED3 /* MyStudyiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyStudyiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA52824E2BFAFB4100645ED3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +111,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CA2EB0462C04B1930043B05C /* Chapter6 */ = {
+			isa = PBXGroup;
+			children = (
+				CA2EB04B2C04CE7F0043B05C /* Example1 */,
+				CA2EB0472C04B1AF0043B05C /* 6-1.md */,
+			);
+			path = Chapter6;
+			sourceTree = "<group>";
+		};
+		CA2EB04B2C04CE7F0043B05C /* Example1 */ = {
+			isa = PBXGroup;
+			children = (
+				CA2EB0482C04CE790043B05C /* NSTimer+WeakTimer.h */,
+				CA2EB0492C04CE790043B05C /* NSTimer+WeakTimer.m */,
+			);
+			path = Example1;
+			sourceTree = "<group>";
+		};
 		CA4C00722C00C1E900803679 /* Chapter5 */ = {
 			isa = PBXGroup;
 			children = (
@@ -175,6 +197,7 @@
 				CA5282832BFB2F5F00645ED3 /* Chapter3 */,
 				CAC960DB2BFD8D620035D2F2 /* Chapter4 */,
 				CA4C00722C00C1E900803679 /* Chapter5 */,
+				CA2EB0462C04B1930043B05C /* Chapter6 */,
 				CA52827F2BFB083800645ED3 /* README.md */,
 			);
 			path = "MKSZ202-study";
@@ -393,6 +416,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA2EB04A2C04CE790043B05C /* NSTimer+WeakTimer.m in Sources */,
 				CA5282532BFAFB4100645ED3 /* ViewController.swift in Sources */,
 				CAC960E32BFDC54F0035D2F2 /* MObserver.m in Sources */,
 				CA52824F2BFAFB4100645ED3 /* AppDelegate.swift in Sources */,
