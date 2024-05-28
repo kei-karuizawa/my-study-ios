@@ -84,6 +84,7 @@
 		CAC960E22BFDC54F0035D2F2 /* MObserver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MObserver.m; sourceTree = "<group>"; };
 		CAC960E52BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course41Example1AppDelegate.h; sourceTree = "<group>"; };
 		CAC960E62BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course41Example1AppDelegate.m; sourceTree = "<group>"; };
+		CAFAEA602C0608DB005260CA /* 7-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "7-1.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -198,6 +199,7 @@
 				CAC960DB2BFD8D620035D2F2 /* Chapter4 */,
 				CA4C00722C00C1E900803679 /* Chapter5 */,
 				CA2EB0462C04B1930043B05C /* Chapter6 */,
+				CAFAEA5F2C0608C5005260CA /* Chapter7 */,
 				CA52827F2BFB083800645ED3 /* README.md */,
 			);
 			path = "MKSZ202-study";
@@ -282,6 +284,14 @@
 				CAC960DD2BFDC46C0035D2F2 /* Example1 */,
 			);
 			path = "4-1";
+			sourceTree = "<group>";
+		};
+		CAFAEA5F2C0608C5005260CA /* Chapter7 */ = {
+			isa = PBXGroup;
+			children = (
+				CAFAEA602C0608DB005260CA /* 7-1.md */,
+			);
+			path = Chapter7;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
