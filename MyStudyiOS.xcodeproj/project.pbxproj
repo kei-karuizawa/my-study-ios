@@ -45,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CA203B242C08A69C00643404 /* 9-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "9-1.md"; sourceTree = "<group>"; };
 		CA2EB0472C04B1AF0043B05C /* 6-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "6-1.md"; sourceTree = "<group>"; };
 		CA2EB0482C04CE790043B05C /* NSTimer+WeakTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+WeakTimer.h"; sourceTree = "<group>"; };
 		CA2EB0492C04CE790043B05C /* NSTimer+WeakTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+WeakTimer.m"; sourceTree = "<group>"; };
@@ -73,6 +74,7 @@
 		CA52828B2BFB33AF00645ED3 /* IndexedTableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IndexedTableView.m; sourceTree = "<group>"; };
 		CA52828D2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course31Example1ViewController.h; sourceTree = "<group>"; };
 		CA52828E2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course31Example1ViewController.m; sourceTree = "<group>"; };
+		CA80A1AB2C07523B0095433F /* 8-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "8-1.md"; sourceTree = "<group>"; };
 		CAA14FE72BFC47FF00B27FAD /* CustomButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomButton.h; sourceTree = "<group>"; };
 		CAA14FE82BFC47FF00B27FAD /* CustomButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomButton.m; sourceTree = "<group>"; };
 		CAA14FEA2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course31Example2ViewController.h; sourceTree = "<group>"; };
@@ -112,6 +114,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CA203B232C08A68300643404 /* Chapter9 */ = {
+			isa = PBXGroup;
+			children = (
+				CA203B242C08A69C00643404 /* 9-1.md */,
+			);
+			path = Chapter9;
+			sourceTree = "<group>";
+		};
 		CA2EB0462C04B1930043B05C /* Chapter6 */ = {
 			isa = PBXGroup;
 			children = (
@@ -200,6 +210,8 @@
 				CA4C00722C00C1E900803679 /* Chapter5 */,
 				CA2EB0462C04B1930043B05C /* Chapter6 */,
 				CAFAEA5F2C0608C5005260CA /* Chapter7 */,
+				CA80A1AA2C07521E0095433F /* Chapter8 */,
+				CA203B232C08A68300643404 /* Chapter9 */,
 				CA52827F2BFB083800645ED3 /* README.md */,
 			);
 			path = "MKSZ202-study";
@@ -233,6 +245,14 @@
 				CA5282882BFB30B600645ED3 /* ViewReusePool.m */,
 			);
 			path = Example1;
+			sourceTree = "<group>";
+		};
+		CA80A1AA2C07521E0095433F /* Chapter8 */ = {
+			isa = PBXGroup;
+			children = (
+				CA80A1AB2C07523B0095433F /* 8-1.md */,
+			);
+			path = Chapter8;
 			sourceTree = "<group>";
 		};
 		CAA14FE52BFC419F00B27FAD /* 3-1 */ = {
