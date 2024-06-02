@@ -25,6 +25,7 @@
 		CAC960E02BFDC4980035D2F2 /* MObject.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960DF2BFDC4980035D2F2 /* MObject.m */; };
 		CAC960E32BFDC54F0035D2F2 /* MObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960E22BFDC54F0035D2F2 /* MObserver.m */; };
 		CAC960E72BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960E62BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m */; };
+		CADE671F2C0C4E7B00742651 /* 10-1.md in Resources */ = {isa = PBXBuildFile; fileRef = CADE671D2C0C4E7B00742651 /* 10-1.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -86,6 +87,7 @@
 		CAC960E22BFDC54F0035D2F2 /* MObserver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MObserver.m; sourceTree = "<group>"; };
 		CAC960E52BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course41Example1AppDelegate.h; sourceTree = "<group>"; };
 		CAC960E62BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course41Example1AppDelegate.m; sourceTree = "<group>"; };
+		CADE671D2C0C4E7B00742651 /* 10-1.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "10-1.md"; sourceTree = "<group>"; };
 		CAFAEA602C0608DB005260CA /* 7-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "7-1.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -212,6 +214,7 @@
 				CAFAEA5F2C0608C5005260CA /* Chapter7 */,
 				CA80A1AA2C07521E0095433F /* Chapter8 */,
 				CA203B232C08A68300643404 /* Chapter9 */,
+				CADE671E2C0C4E7B00742651 /* Chapter10 */,
 				CA52827F2BFB083800645ED3 /* README.md */,
 			);
 			path = "MKSZ202-study";
@@ -304,6 +307,14 @@
 				CAC960DD2BFDC46C0035D2F2 /* Example1 */,
 			);
 			path = "4-1";
+			sourceTree = "<group>";
+		};
+		CADE671E2C0C4E7B00742651 /* Chapter10 */ = {
+			isa = PBXGroup;
+			children = (
+				CADE671D2C0C4E7B00742651 /* 10-1.md */,
+			);
+			path = Chapter10;
 			sourceTree = "<group>";
 		};
 		CAFAEA5F2C0608C5005260CA /* Chapter7 */ = {
@@ -420,6 +431,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA5282582BFAFB4200645ED3 /* Assets.xcassets in Resources */,
+				CADE671F2C0C4E7B00742651 /* 10-1.md in Resources */,
 				CA52825B2BFAFB4200645ED3 /* Base in Resources */,
 				CA5282562BFAFB4100645ED3 /* Base in Resources */,
 			);
