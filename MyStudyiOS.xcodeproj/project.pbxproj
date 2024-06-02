@@ -128,6 +128,9 @@
 		CADE67492C0C59AC00742651 /* Command.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Command.m; sourceTree = "<group>"; };
 		CADE674A2C0C59AC00742651 /* Command.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Command.h; sourceTree = "<group>"; };
 		CADE674B2C0C59AC00742651 /* CommandManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommandManager.m; sourceTree = "<group>"; };
+		CADE674F2C0C8B0C00742651 /* 12-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "12-1.md"; sourceTree = "<group>"; };
+		CADE67512C0C98CD00742651 /* 14-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "14-1.md"; sourceTree = "<group>"; };
+		CADE67532C0C9F0A00742651 /* 15-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "15-1.md"; sourceTree = "<group>"; };
 		CAFAEA602C0608DB005260CA /* 7-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "7-1.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -256,6 +259,9 @@
 				CA203B232C08A68300643404 /* Chapter9 */,
 				CADE671E2C0C4E7B00742651 /* Chapter10 */,
 				CADE67202C0C4EBC00742651 /* Chapter11 */,
+				CADE674E2C0C8ADB00742651 /* Chapter12 */,
+				CADE67502C0C98B500742651 /* Chapter14 */,
+				CADE67522C0C9EF000742651 /* Chapter15 */,
 				CA52827F2BFB083800645ED3 /* README.md */,
 			);
 			path = "MKSZ202-study";
@@ -430,6 +436,30 @@
 				CADE674B2C0C59AC00742651 /* CommandManager.m */,
 			);
 			path = Example5;
+			sourceTree = "<group>";
+		};
+		CADE674E2C0C8ADB00742651 /* Chapter12 */ = {
+			isa = PBXGroup;
+			children = (
+				CADE674F2C0C8B0C00742651 /* 12-1.md */,
+			);
+			path = Chapter12;
+			sourceTree = "<group>";
+		};
+		CADE67502C0C98B500742651 /* Chapter14 */ = {
+			isa = PBXGroup;
+			children = (
+				CADE67512C0C98CD00742651 /* 14-1.md */,
+			);
+			path = Chapter14;
+			sourceTree = "<group>";
+		};
+		CADE67522C0C9EF000742651 /* Chapter15 */ = {
+			isa = PBXGroup;
+			children = (
+				CADE67532C0C9F0A00742651 /* 15-1.md */,
+			);
+			path = Chapter15;
 			sourceTree = "<group>";
 		};
 		CAFAEA5F2C0608C5005260CA /* Chapter7 */ = {
