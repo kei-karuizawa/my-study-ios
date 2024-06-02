@@ -26,6 +26,19 @@
 		CAC960E32BFDC54F0035D2F2 /* MObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960E22BFDC54F0035D2F2 /* MObserver.m */; };
 		CAC960E72BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960E62BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m */; };
 		CADE671F2C0C4E7B00742651 /* 10-1.md in Resources */ = {isa = PBXBuildFile; fileRef = CADE671D2C0C4E7B00742651 /* 10-1.md */; };
+		CADE67252C0C562A00742651 /* BusinessObject.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE67242C0C562A00742651 /* BusinessObject.m */; };
+		CADE67352C0C565500742651 /* BridgeDemo.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE67292C0C565500742651 /* BridgeDemo.m */; };
+		CADE67362C0C565500742651 /* ObjectA1.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE672A2C0C565500742651 /* ObjectA1.m */; };
+		CADE67372C0C565500742651 /* ObjectB2.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE672C2C0C565500742651 /* ObjectB2.m */; };
+		CADE67382C0C565500742651 /* BaseObjectA.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE672F2C0C565500742651 /* BaseObjectA.m */; };
+		CADE67392C0C565500742651 /* ObjectB1.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE67302C0C565500742651 /* ObjectB1.m */; };
+		CADE673A2C0C565500742651 /* ObjectA2.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE67312C0C565500742651 /* ObjectA2.m */; };
+		CADE673B2C0C565500742651 /* BaseObjectB.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE67322C0C565500742651 /* BaseObjectB.m */; };
+		CADE67412C0C56FF00742651 /* CoolTarget.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE673F2C0C56FF00742651 /* CoolTarget.m */; };
+		CADE67422C0C56FF00742651 /* Target.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE67402C0C56FF00742651 /* Target.m */; };
+		CADE67462C0C580200742651 /* Mooc.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE67442C0C580200742651 /* Mooc.m */; };
+		CADE674C2C0C59AC00742651 /* Command.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE67492C0C59AC00742651 /* Command.m */; };
+		CADE674D2C0C59AC00742651 /* CommandManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE674B2C0C59AC00742651 /* CommandManager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -88,6 +101,33 @@
 		CAC960E52BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course41Example1AppDelegate.h; sourceTree = "<group>"; };
 		CAC960E62BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course41Example1AppDelegate.m; sourceTree = "<group>"; };
 		CADE671D2C0C4E7B00742651 /* 10-1.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "10-1.md"; sourceTree = "<group>"; };
+		CADE67212C0C4ED400742651 /* 11-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "11-1.md"; sourceTree = "<group>"; };
+		CADE67232C0C562A00742651 /* BusinessObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BusinessObject.h; sourceTree = "<group>"; };
+		CADE67242C0C562A00742651 /* BusinessObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BusinessObject.m; sourceTree = "<group>"; };
+		CADE67272C0C565500742651 /* BaseObjectA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseObjectA.h; sourceTree = "<group>"; };
+		CADE67282C0C565500742651 /* ObjectB2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjectB2.h; sourceTree = "<group>"; };
+		CADE67292C0C565500742651 /* BridgeDemo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BridgeDemo.m; sourceTree = "<group>"; };
+		CADE672A2C0C565500742651 /* ObjectA1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjectA1.m; sourceTree = "<group>"; };
+		CADE672B2C0C565500742651 /* ObjectA2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjectA2.h; sourceTree = "<group>"; };
+		CADE672C2C0C565500742651 /* ObjectB2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjectB2.m; sourceTree = "<group>"; };
+		CADE672D2C0C565500742651 /* BridgeDemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BridgeDemo.h; sourceTree = "<group>"; };
+		CADE672E2C0C565500742651 /* ObjectA1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjectA1.h; sourceTree = "<group>"; };
+		CADE672F2C0C565500742651 /* BaseObjectA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseObjectA.m; sourceTree = "<group>"; };
+		CADE67302C0C565500742651 /* ObjectB1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjectB1.m; sourceTree = "<group>"; };
+		CADE67312C0C565500742651 /* ObjectA2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjectA2.m; sourceTree = "<group>"; };
+		CADE67322C0C565500742651 /* BaseObjectB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseObjectB.m; sourceTree = "<group>"; };
+		CADE67332C0C565500742651 /* BaseObjectB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseObjectB.h; sourceTree = "<group>"; };
+		CADE67342C0C565500742651 /* ObjectB1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjectB1.h; sourceTree = "<group>"; };
+		CADE673D2C0C56FF00742651 /* CoolTarget.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoolTarget.h; sourceTree = "<group>"; };
+		CADE673E2C0C56FF00742651 /* Target.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Target.h; sourceTree = "<group>"; };
+		CADE673F2C0C56FF00742651 /* CoolTarget.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoolTarget.m; sourceTree = "<group>"; };
+		CADE67402C0C56FF00742651 /* Target.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Target.m; sourceTree = "<group>"; };
+		CADE67442C0C580200742651 /* Mooc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Mooc.m; sourceTree = "<group>"; };
+		CADE67452C0C580200742651 /* Mooc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mooc.h; sourceTree = "<group>"; };
+		CADE67482C0C59AC00742651 /* CommandManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommandManager.h; sourceTree = "<group>"; };
+		CADE67492C0C59AC00742651 /* Command.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Command.m; sourceTree = "<group>"; };
+		CADE674A2C0C59AC00742651 /* Command.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Command.h; sourceTree = "<group>"; };
+		CADE674B2C0C59AC00742651 /* CommandManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommandManager.m; sourceTree = "<group>"; };
 		CAFAEA602C0608DB005260CA /* 7-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "7-1.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -215,6 +255,7 @@
 				CA80A1AA2C07521E0095433F /* Chapter8 */,
 				CA203B232C08A68300643404 /* Chapter9 */,
 				CADE671E2C0C4E7B00742651 /* Chapter10 */,
+				CADE67202C0C4EBC00742651 /* Chapter11 */,
 				CA52827F2BFB083800645ED3 /* README.md */,
 			);
 			path = "MKSZ202-study";
@@ -315,6 +356,80 @@
 				CADE671D2C0C4E7B00742651 /* 10-1.md */,
 			);
 			path = Chapter10;
+			sourceTree = "<group>";
+		};
+		CADE67202C0C4EBC00742651 /* Chapter11 */ = {
+			isa = PBXGroup;
+			children = (
+				CADE67472C0C599B00742651 /* Example5 */,
+				CADE67432C0C57F300742651 /* Example4 */,
+				CADE67212C0C4ED400742651 /* 11-1.md */,
+				CADE67222C0C561800742651 /* Example1 */,
+				CADE67262C0C562F00742651 /* Example2 */,
+				CADE673C2C0C56EB00742651 /* Example3 */,
+			);
+			path = Chapter11;
+			sourceTree = "<group>";
+		};
+		CADE67222C0C561800742651 /* Example1 */ = {
+			isa = PBXGroup;
+			children = (
+				CADE67232C0C562A00742651 /* BusinessObject.h */,
+				CADE67242C0C562A00742651 /* BusinessObject.m */,
+			);
+			path = Example1;
+			sourceTree = "<group>";
+		};
+		CADE67262C0C562F00742651 /* Example2 */ = {
+			isa = PBXGroup;
+			children = (
+				CADE67272C0C565500742651 /* BaseObjectA.h */,
+				CADE672F2C0C565500742651 /* BaseObjectA.m */,
+				CADE67332C0C565500742651 /* BaseObjectB.h */,
+				CADE67322C0C565500742651 /* BaseObjectB.m */,
+				CADE672D2C0C565500742651 /* BridgeDemo.h */,
+				CADE67292C0C565500742651 /* BridgeDemo.m */,
+				CADE672E2C0C565500742651 /* ObjectA1.h */,
+				CADE672A2C0C565500742651 /* ObjectA1.m */,
+				CADE672B2C0C565500742651 /* ObjectA2.h */,
+				CADE67312C0C565500742651 /* ObjectA2.m */,
+				CADE67342C0C565500742651 /* ObjectB1.h */,
+				CADE67302C0C565500742651 /* ObjectB1.m */,
+				CADE67282C0C565500742651 /* ObjectB2.h */,
+				CADE672C2C0C565500742651 /* ObjectB2.m */,
+			);
+			path = Example2;
+			sourceTree = "<group>";
+		};
+		CADE673C2C0C56EB00742651 /* Example3 */ = {
+			isa = PBXGroup;
+			children = (
+				CADE673D2C0C56FF00742651 /* CoolTarget.h */,
+				CADE673F2C0C56FF00742651 /* CoolTarget.m */,
+				CADE673E2C0C56FF00742651 /* Target.h */,
+				CADE67402C0C56FF00742651 /* Target.m */,
+			);
+			path = Example3;
+			sourceTree = "<group>";
+		};
+		CADE67432C0C57F300742651 /* Example4 */ = {
+			isa = PBXGroup;
+			children = (
+				CADE67452C0C580200742651 /* Mooc.h */,
+				CADE67442C0C580200742651 /* Mooc.m */,
+			);
+			path = Example4;
+			sourceTree = "<group>";
+		};
+		CADE67472C0C599B00742651 /* Example5 */ = {
+			isa = PBXGroup;
+			children = (
+				CADE674A2C0C59AC00742651 /* Command.h */,
+				CADE67492C0C59AC00742651 /* Command.m */,
+				CADE67482C0C59AC00742651 /* CommandManager.h */,
+				CADE674B2C0C59AC00742651 /* CommandManager.m */,
+			);
+			path = Example5;
 			sourceTree = "<group>";
 		};
 		CAFAEA5F2C0608C5005260CA /* Chapter7 */ = {
@@ -458,15 +573,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CADE67372C0C565500742651 /* ObjectB2.m in Sources */,
 				CA2EB04A2C04CE790043B05C /* NSTimer+WeakTimer.m in Sources */,
+				CADE67352C0C565500742651 /* BridgeDemo.m in Sources */,
 				CA5282532BFAFB4100645ED3 /* ViewController.swift in Sources */,
+				CADE673B2C0C565500742651 /* BaseObjectB.m in Sources */,
+				CADE67382C0C565500742651 /* BaseObjectA.m in Sources */,
 				CAC960E32BFDC54F0035D2F2 /* MObserver.m in Sources */,
 				CA52824F2BFAFB4100645ED3 /* AppDelegate.swift in Sources */,
 				CA52828F2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m in Sources */,
+				CADE673A2C0C565500742651 /* ObjectA2.m in Sources */,
+				CADE67422C0C56FF00742651 /* Target.m in Sources */,
+				CADE67252C0C562A00742651 /* BusinessObject.m in Sources */,
+				CADE67392C0C565500742651 /* ObjectB1.m in Sources */,
 				CAA14FE92BFC47FF00B27FAD /* CustomButton.m in Sources */,
+				CADE67362C0C565500742651 /* ObjectA1.m in Sources */,
 				CA5282512BFAFB4100645ED3 /* SceneDelegate.swift in Sources */,
 				CAA14FEC2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m in Sources */,
+				CADE67462C0C580200742651 /* Mooc.m in Sources */,
 				CA52828C2BFB33AF00645ED3 /* IndexedTableView.m in Sources */,
+				CADE674C2C0C59AC00742651 /* Command.m in Sources */,
+				CADE674D2C0C59AC00742651 /* CommandManager.m in Sources */,
+				CADE67412C0C56FF00742651 /* CoolTarget.m in Sources */,
 				CAC960E02BFDC4980035D2F2 /* MObject.m in Sources */,
 				CA5282892BFB30B600645ED3 /* ViewReusePool.m in Sources */,
 				CAC960E72BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m in Sources */,
