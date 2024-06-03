@@ -367,12 +367,12 @@
 		CADE67202C0C4EBC00742651 /* Chapter11 */ = {
 			isa = PBXGroup;
 			children = (
-				CADE67472C0C599B00742651 /* Example5 */,
-				CADE67432C0C57F300742651 /* Example4 */,
 				CADE67212C0C4ED400742651 /* 11-1.md */,
 				CADE67222C0C561800742651 /* Example1 */,
 				CADE67262C0C562F00742651 /* Example2 */,
 				CADE673C2C0C56EB00742651 /* Example3 */,
+				CADE67432C0C57F300742651 /* Example4 */,
+				CADE67472C0C599B00742651 /* Example5 */,
 			);
 			path = Chapter11;
 			sourceTree = "<group>";
