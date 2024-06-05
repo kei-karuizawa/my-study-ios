@@ -30,7 +30,7 @@
         // 答案：生效。
         // 涉及 kvc 和 kvo 的联系。
         // 问：为什么可以生效？
-        // 答案：[obj setValue] 实际上最终会调用 obj 的 setter 方法，即 `obj.value = 2`。而 setter 方法刚已经被系统重写了，所以 kvc 与 kvo 进行了联系。
+        // 答案：`[obj setValue]` 实际上最终会调用 obj 的 setter 方法，即 `obj.value = 2`。而 setter 方法刚已经被系统重写了，所以 kvc 与 kvo 进行了联系。
         [obj setValue:@2 forKey:@"value"];
         
         // 2：问：通过成员变量直接赋值 value 能否生效？
