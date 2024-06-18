@@ -69,6 +69,8 @@
 		CA15947C2C19E59C009BCD1D /* 2-10.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-10.md"; sourceTree = "<group>"; };
 		CA15947D2C19E8AC009BCD1D /* 2-11.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-11.md"; sourceTree = "<group>"; };
 		CA203B242C08A69C00643404 /* 9-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "9-1.md"; sourceTree = "<group>"; };
+		CA206DBD2C2121E100DF5FE3 /* 3-48.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-48.md"; sourceTree = "<group>"; };
+		CA206DBE2C21292000DF5FE3 /* 3-49.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-49.md"; sourceTree = "<group>"; };
 		CA2EB0472C04B1AF0043B05C /* 6-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "6-1.md"; sourceTree = "<group>"; };
 		CA2EB0482C04CE790043B05C /* NSTimer+WeakTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+WeakTimer.h"; sourceTree = "<group>"; };
 		CA2EB0492C04CE790043B05C /* NSTimer+WeakTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+WeakTimer.m"; sourceTree = "<group>"; };
@@ -391,6 +393,8 @@
 				CA7385FD2C2072CF00CCDD20 /* 3-44.md */,
 				CA7385FE2C20795E00CCDD20 /* 3-46.md */,
 				CA7385FF2C207B3B00CCDD20 /* 3-47.md */,
+				CA206DBD2C2121E100DF5FE3 /* 3-48.md */,
+				CA206DBE2C21292000DF5FE3 /* 3-49.md */,
 			);
 			path = Chapter3;
 			sourceTree = "<group>";
