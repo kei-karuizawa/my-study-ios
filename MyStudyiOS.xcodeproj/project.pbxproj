@@ -99,6 +99,11 @@
 		CA52828B2BFB33AF00645ED3 /* IndexedTableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IndexedTableView.m; sourceTree = "<group>"; };
 		CA52828D2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course31Example1ViewController.h; sourceTree = "<group>"; };
 		CA52828E2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course31Example1ViewController.m; sourceTree = "<group>"; };
+		CA6B5DAD2C23139A004AA5C7 /* 3-51.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-51.md"; sourceTree = "<group>"; };
+		CA6B5DAE2C2315F8004AA5C7 /* 3-52.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-52.md"; sourceTree = "<group>"; };
+		CA6B5DAF2C231AC8004AA5C7 /* 3-53.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-53.md"; sourceTree = "<group>"; };
+		CA6B5DB02C231CB6004AA5C7 /* 3-54.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-54.md"; sourceTree = "<group>"; };
+		CA6B5DB12C231E4E004AA5C7 /* 3-55.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-55.md"; sourceTree = "<group>"; };
 		CA6E80062C1F297D0029F25C /* 3-38.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-38.md"; sourceTree = "<group>"; };
 		CA6E80072C1F2D150029F25C /* 3-39.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-39.md"; sourceTree = "<group>"; };
 		CA6E80082C1F2EA70029F25C /* 3-40.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-40.md"; sourceTree = "<group>"; };
@@ -120,6 +125,14 @@
 		CA8BA3402C0F538700D9DFC8 /* MKSZ202Course0401Person+Age.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "MKSZ202Course0401Person+Age.m"; sourceTree = "<group>"; };
 		CA8BA3452C0F561B00D9DFC8 /* MKSZ202Course0401UsePersonViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course0401UsePersonViewController.h; sourceTree = "<group>"; };
 		CA8BA3462C0F561B00D9DFC8 /* MKSZ202Course0401UsePersonViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course0401UsePersonViewController.m; sourceTree = "<group>"; };
+		CA9997B52C27009300840CF7 /* 3-58.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-58.md"; sourceTree = "<group>"; };
+		CA9997B62C2702C400840CF7 /* 3-59.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-59.md"; sourceTree = "<group>"; };
+		CA9997B72C2704EB00840CF7 /* 3-60.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-60.md"; sourceTree = "<group>"; };
+		CA9997B82C2706AF00840CF7 /* 3-61.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-61.md"; sourceTree = "<group>"; };
+		CA9997B92C27079800840CF7 /* 3-62.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-62.md"; sourceTree = "<group>"; };
+		CA9997BA2C270A8800840CF7 /* 3-63.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-63.md"; sourceTree = "<group>"; };
+		CA9997BB2C270BFC00840CF7 /* 3-64.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-64.md"; sourceTree = "<group>"; };
+		CAA0DAFB2C246AB20032CF6C /* 3-56.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-56.md"; sourceTree = "<group>"; };
 		CAA14FE72BFC47FF00B27FAD /* CustomButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomButton.h; sourceTree = "<group>"; };
 		CAA14FE82BFC47FF00B27FAD /* CustomButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomButton.m; sourceTree = "<group>"; };
 		CAA14FEA2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course31Example2ViewController.h; sourceTree = "<group>"; };
@@ -395,6 +408,19 @@
 				CA7385FF2C207B3B00CCDD20 /* 3-47.md */,
 				CA206DBD2C2121E100DF5FE3 /* 3-48.md */,
 				CA206DBE2C21292000DF5FE3 /* 3-49.md */,
+				CA6B5DAD2C23139A004AA5C7 /* 3-51.md */,
+				CA6B5DAE2C2315F8004AA5C7 /* 3-52.md */,
+				CA6B5DAF2C231AC8004AA5C7 /* 3-53.md */,
+				CA6B5DB02C231CB6004AA5C7 /* 3-54.md */,
+				CA6B5DB12C231E4E004AA5C7 /* 3-55.md */,
+				CAA0DAFB2C246AB20032CF6C /* 3-56.md */,
+				CA9997B52C27009300840CF7 /* 3-58.md */,
+				CA9997B62C2702C400840CF7 /* 3-59.md */,
+				CA9997B72C2704EB00840CF7 /* 3-60.md */,
+				CA9997B82C2706AF00840CF7 /* 3-61.md */,
+				CA9997B92C27079800840CF7 /* 3-62.md */,
+				CA9997BA2C270A8800840CF7 /* 3-63.md */,
+				CA9997BB2C270BFC00840CF7 /* 3-64.md */,
 			);
 			path = Chapter3;
 			sourceTree = "<group>";
