@@ -106,6 +106,14 @@
 		CA5335892C28182400F03006 /* 3-70.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-70.md"; sourceTree = "<group>"; };
 		CA53358A2C2819E900F03006 /* 3-71.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-71.md"; sourceTree = "<group>"; };
 		CA53358B2C281DA100F03006 /* 3-72.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-72.md"; sourceTree = "<group>"; };
+		CA5EF6502C3031DF005242E7 /* 4-73.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-73.md"; sourceTree = "<group>"; };
+		CA5EF6512C30341B005242E7 /* 4-74.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-74.md"; sourceTree = "<group>"; };
+		CA5EF6522C3036C3005242E7 /* 4-75.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-75.md"; sourceTree = "<group>"; };
+		CA5EF6532C303719005242E7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CA5EF6542C303A97005242E7 /* 4-76.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-76.md"; sourceTree = "<group>"; };
+		CA5EF6552C303B6B005242E7 /* 4-77.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-77.md"; sourceTree = "<group>"; };
+		CA5EF6562C303E01005242E7 /* 4-78.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-78.md"; sourceTree = "<group>"; };
+		CA5EF6572C304050005242E7 /* 4-79.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-79.md"; sourceTree = "<group>"; };
 		CA6B5DAD2C23139A004AA5C7 /* 3-51.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-51.md"; sourceTree = "<group>"; };
 		CA6B5DAE2C2315F8004AA5C7 /* 3-52.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-52.md"; sourceTree = "<group>"; };
 		CA6B5DAF2C231AC8004AA5C7 /* 3-53.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-53.md"; sourceTree = "<group>"; };
@@ -228,6 +236,8 @@
 			children = (
 				CA1594702C19DD6C009BCD1D /* Chapter2 */,
 				CA6E80052C1F296F0029F25C /* Chapter3 */,
+				CA5EF64F2C303141005242E7 /* Chapter4 */,
+				CA5EF6532C303719005242E7 /* README.md */,
 			);
 			path = JK100025901;
 			sourceTree = "<group>";
@@ -401,6 +411,20 @@
 				CA5282882BFB30B600645ED3 /* ViewReusePool.m */,
 			);
 			path = Example1;
+			sourceTree = "<group>";
+		};
+		CA5EF64F2C303141005242E7 /* Chapter4 */ = {
+			isa = PBXGroup;
+			children = (
+				CA5EF6502C3031DF005242E7 /* 4-73.md */,
+				CA5EF6512C30341B005242E7 /* 4-74.md */,
+				CA5EF6522C3036C3005242E7 /* 4-75.md */,
+				CA5EF6542C303A97005242E7 /* 4-76.md */,
+				CA5EF6552C303B6B005242E7 /* 4-77.md */,
+				CA5EF6562C303E01005242E7 /* 4-78.md */,
+				CA5EF6572C304050005242E7 /* 4-79.md */,
+			);
+			path = Chapter4;
 			sourceTree = "<group>";
 		};
 		CA6E80052C1F296F0029F25C /* Chapter3 */ = {
