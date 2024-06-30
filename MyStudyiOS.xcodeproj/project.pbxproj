@@ -140,6 +140,10 @@
 		CA8BA3402C0F538700D9DFC8 /* MKSZ202Course0401Person+Age.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "MKSZ202Course0401Person+Age.m"; sourceTree = "<group>"; };
 		CA8BA3452C0F561B00D9DFC8 /* MKSZ202Course0401UsePersonViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course0401UsePersonViewController.h; sourceTree = "<group>"; };
 		CA8BA3462C0F561B00D9DFC8 /* MKSZ202Course0401UsePersonViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course0401UsePersonViewController.m; sourceTree = "<group>"; };
+		CA94113F2C318C8F00C619E8 /* 4-80.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-80.md"; sourceTree = "<group>"; };
+		CA9411402C318DCA00C619E8 /* 4-81.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-81.md"; sourceTree = "<group>"; };
+		CA9411412C31900D00C619E8 /* 4-82.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-82.md"; sourceTree = "<group>"; };
+		CA9411422C31925000C619E8 /* 4-83.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-83.md"; sourceTree = "<group>"; };
 		CA9997B52C27009300840CF7 /* 3-58.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-58.md"; sourceTree = "<group>"; };
 		CA9997B62C2702C400840CF7 /* 3-59.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-59.md"; sourceTree = "<group>"; };
 		CA9997B72C2704EB00840CF7 /* 3-60.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-60.md"; sourceTree = "<group>"; };
@@ -423,6 +427,10 @@
 				CA5EF6552C303B6B005242E7 /* 4-77.md */,
 				CA5EF6562C303E01005242E7 /* 4-78.md */,
 				CA5EF6572C304050005242E7 /* 4-79.md */,
+				CA94113F2C318C8F00C619E8 /* 4-80.md */,
+				CA9411402C318DCA00C619E8 /* 4-81.md */,
+				CA9411412C31900D00C619E8 /* 4-82.md */,
+				CA9411422C31925000C619E8 /* 4-83.md */,
 			);
 			path = Chapter4;
 			sourceTree = "<group>";
