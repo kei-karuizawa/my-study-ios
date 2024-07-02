@@ -74,6 +74,10 @@
 		CA2EB0472C04B1AF0043B05C /* 6-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "6-1.md"; sourceTree = "<group>"; };
 		CA2EB0482C04CE790043B05C /* NSTimer+WeakTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+WeakTimer.h"; sourceTree = "<group>"; };
 		CA2EB0492C04CE790043B05C /* NSTimer+WeakTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+WeakTimer.m"; sourceTree = "<group>"; };
+		CA48E2382C3435BB00531AD5 /* 4-85.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-85.md"; sourceTree = "<group>"; };
+		CA48E2392C3437B400531AD5 /* 4-86.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-86.md"; sourceTree = "<group>"; };
+		CA48E23A2C34397E00531AD5 /* 4-87.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-87.md"; sourceTree = "<group>"; };
+		CA48E23B2C343C6D00531AD5 /* 4-88.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-88.md"; sourceTree = "<group>"; };
 		CA4C00732C00C20E00803679 /* 5-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "5-1.md"; sourceTree = "<group>"; };
 		CA52824B2BFAFB4100645ED3 /* MyStudyiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyStudyiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA52824E2BFAFB4100645ED3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -431,6 +435,10 @@
 				CA9411402C318DCA00C619E8 /* 4-81.md */,
 				CA9411412C31900D00C619E8 /* 4-82.md */,
 				CA9411422C31925000C619E8 /* 4-83.md */,
+				CA48E2382C3435BB00531AD5 /* 4-85.md */,
+				CA48E2392C3437B400531AD5 /* 4-86.md */,
+				CA48E23A2C34397E00531AD5 /* 4-87.md */,
+				CA48E23B2C343C6D00531AD5 /* 4-88.md */,
 			);
 			path = Chapter4;
 			sourceTree = "<group>";
