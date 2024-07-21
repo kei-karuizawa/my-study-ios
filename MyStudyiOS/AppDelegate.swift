@@ -15,7 +15,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         
-        let _ = MKSZ202Course41Example1AppDelegate()
+        //let _ = MKSZ202Course41Example1AppDelegate()
+        
+//        let person: OCOfficialStudy02Example1XYZPerson = OCOfficialStudy02Example1XYZPerson()
+//        person.sayHello()
+        let shoutingPerson: OCOfficialStudy0201Example1XYZShoutingPerson = OCOfficialStudy0201Example1XYZShoutingPerson()
+        shoutingPerson.saySomeThing("adfasfsd")
         
         return true
     }
