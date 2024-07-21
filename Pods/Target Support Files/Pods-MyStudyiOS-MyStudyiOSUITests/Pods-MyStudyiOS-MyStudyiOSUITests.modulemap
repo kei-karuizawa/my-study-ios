@@ -1,0 +1,6 @@
+framework module Pods_MyStudyiOS_MyStudyiOSUITests {
+  umbrella header "Pods-MyStudyiOS-MyStudyiOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

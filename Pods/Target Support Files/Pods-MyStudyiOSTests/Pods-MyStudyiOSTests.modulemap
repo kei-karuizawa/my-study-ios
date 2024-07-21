@@ -1,0 +1,6 @@
+framework module Pods_MyStudyiOSTests {
+  umbrella header "Pods-MyStudyiOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
