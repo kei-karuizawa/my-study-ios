@@ -32,7 +32,6 @@
 		CAC960E02BFDC4980035D2F2 /* MObject.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960DF2BFDC4980035D2F2 /* MObject.m */; };
 		CAC960E32BFDC54F0035D2F2 /* MObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960E22BFDC54F0035D2F2 /* MObserver.m */; };
 		CAC960E72BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960E62BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m */; };
-		CADE671F2C0C4E7B00742651 /* 10-1.md in Resources */ = {isa = PBXBuildFile; fileRef = CADE671D2C0C4E7B00742651 /* 10-1.md */; };
 		CADE67252C0C562A00742651 /* BusinessObject.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE67242C0C562A00742651 /* BusinessObject.m */; };
 		CADE67352C0C565500742651 /* BridgeDemo.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE67292C0C565500742651 /* BridgeDemo.m */; };
 		CADE67362C0C565500742651 /* ObjectA1.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE672A2C0C565500742651 /* ObjectA1.m */; };
@@ -81,17 +80,14 @@
 		CA1594792C19E1C7009BCD1D /* 2-9.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-9.md"; sourceTree = "<group>"; };
 		CA15947C2C19E59C009BCD1D /* 2-10.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-10.md"; sourceTree = "<group>"; };
 		CA15947D2C19E8AC009BCD1D /* 2-11.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-11.md"; sourceTree = "<group>"; };
-		CA203B242C08A69C00643404 /* 9-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "9-1.md"; sourceTree = "<group>"; };
 		CA206DBD2C2121E100DF5FE3 /* 3-48.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-48.md"; sourceTree = "<group>"; };
 		CA206DBE2C21292000DF5FE3 /* 3-49.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-49.md"; sourceTree = "<group>"; };
-		CA2EB0472C04B1AF0043B05C /* 6-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "6-1.md"; sourceTree = "<group>"; };
 		CA2EB0482C04CE790043B05C /* NSTimer+WeakTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+WeakTimer.h"; sourceTree = "<group>"; };
 		CA2EB0492C04CE790043B05C /* NSTimer+WeakTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+WeakTimer.m"; sourceTree = "<group>"; };
 		CA48E2382C3435BB00531AD5 /* 4-85.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-85.md"; sourceTree = "<group>"; };
 		CA48E2392C3437B400531AD5 /* 4-86.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-86.md"; sourceTree = "<group>"; };
 		CA48E23A2C34397E00531AD5 /* 4-87.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-87.md"; sourceTree = "<group>"; };
 		CA48E23B2C343C6D00531AD5 /* 4-88.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-88.md"; sourceTree = "<group>"; };
-		CA4C00732C00C20E00803679 /* 5-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "5-1.md"; sourceTree = "<group>"; };
 		CA52824B2BFAFB4100645ED3 /* MyStudyiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyStudyiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA52824E2BFAFB4100645ED3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CA5282502BFAFB4100645ED3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,9 +102,6 @@
 		CA52826F2BFAFB4200645ED3 /* MyStudyiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStudyiOSUITests.swift; sourceTree = "<group>"; };
 		CA5282712BFAFB4200645ED3 /* MyStudyiOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStudyiOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		CA52827F2BFB083800645ED3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		CA5282812BFB1E6400645ED3 /* 2-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-1.md"; sourceTree = "<group>"; };
-		CA5282822BFB207400645ED3 /* 2-2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-2.md"; sourceTree = "<group>"; };
-		CA5282842BFB2F8D00645ED3 /* 3-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-1.md"; sourceTree = "<group>"; };
 		CA5282862BFB30B600645ED3 /* MyStudyiOS-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyStudyiOS-Bridging-Header.h"; sourceTree = "<group>"; };
 		CA5282872BFB30B600645ED3 /* ViewReusePool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewReusePool.h; sourceTree = "<group>"; };
 		CA5282882BFB30B600645ED3 /* ViewReusePool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewReusePool.m; sourceTree = "<group>"; };
@@ -137,7 +130,6 @@
 		CA6B5DB02C231CB6004AA5C7 /* 3-54.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-54.md"; sourceTree = "<group>"; };
 		CA6B5DB12C231E4E004AA5C7 /* 3-55.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "3-55.md"; sourceTree = "<group>"; };
 		CA6D69422C4CAFE600205316 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		CA6D69452C4CB07900205316 /* chapter2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = chapter2.md; sourceTree = "<group>"; };
 		CA6D69472C4CB1A000205316 /* OCOfficialStudy02Example1XYZPerson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OCOfficialStudy02Example1XYZPerson.h; sourceTree = "<group>"; };
 		CA6D69482C4CB1A000205316 /* OCOfficialStudy02Example1XYZPerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OCOfficialStudy02Example1XYZPerson.m; sourceTree = "<group>"; };
 		CA6D70B32C4CC97D00205316 /* OCOfficialStudy0201Example1XYZShoutingPerson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OCOfficialStudy0201Example1XYZShoutingPerson.h; sourceTree = "<group>"; };
@@ -156,7 +148,6 @@
 		CA75E6F82C1DC90D00048BC6 /* 2-31.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-31.md"; sourceTree = "<group>"; };
 		CA75E6F92C1DCBD900048BC6 /* 2-32.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-32.md"; sourceTree = "<group>"; };
 		CA75E6FA2C1DCCF700048BC6 /* 2-33.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-33.md"; sourceTree = "<group>"; };
-		CA80A1AB2C07523B0095433F /* 8-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "8-1.md"; sourceTree = "<group>"; };
 		CA8BA3362C0F529500D9DFC8 /* MKSZ202Course0401Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course0401Person.h; sourceTree = "<group>"; };
 		CA8BA3372C0F529500D9DFC8 /* MKSZ202Course0401Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course0401Person.m; sourceTree = "<group>"; };
 		CA8BA33F2C0F538700D9DFC8 /* MKSZ202Course0401Person+Age.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MKSZ202Course0401Person+Age.h"; sourceTree = "<group>"; };
@@ -192,15 +183,12 @@
 		CAA5DEA72C1AA8E400CC5A72 /* 2-24.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-24.md"; sourceTree = "<group>"; };
 		CAA5DEA82C1AAB4500CC5A72 /* 2-25.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-25.md"; sourceTree = "<group>"; };
 		CAA5DEA92C1AAC1300CC5A72 /* 2-26.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2-26.md"; sourceTree = "<group>"; };
-		CAC960DC2BFD8D7F0035D2F2 /* 4-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "4-1.md"; sourceTree = "<group>"; };
 		CAC960DE2BFDC4980035D2F2 /* MObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MObject.h; sourceTree = "<group>"; };
 		CAC960DF2BFDC4980035D2F2 /* MObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MObject.m; sourceTree = "<group>"; };
 		CAC960E12BFDC54F0035D2F2 /* MObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MObserver.h; sourceTree = "<group>"; };
 		CAC960E22BFDC54F0035D2F2 /* MObserver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MObserver.m; sourceTree = "<group>"; };
 		CAC960E52BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course41Example1AppDelegate.h; sourceTree = "<group>"; };
 		CAC960E62BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course41Example1AppDelegate.m; sourceTree = "<group>"; };
-		CADE671D2C0C4E7B00742651 /* 10-1.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "10-1.md"; sourceTree = "<group>"; };
-		CADE67212C0C4ED400742651 /* 11-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "11-1.md"; sourceTree = "<group>"; };
 		CADE67232C0C562A00742651 /* BusinessObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BusinessObject.h; sourceTree = "<group>"; };
 		CADE67242C0C562A00742651 /* BusinessObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BusinessObject.m; sourceTree = "<group>"; };
 		CADE67272C0C565500742651 /* BaseObjectA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseObjectA.h; sourceTree = "<group>"; };
@@ -227,10 +215,6 @@
 		CADE67492C0C59AC00742651 /* Command.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Command.m; sourceTree = "<group>"; };
 		CADE674A2C0C59AC00742651 /* Command.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Command.h; sourceTree = "<group>"; };
 		CADE674B2C0C59AC00742651 /* CommandManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommandManager.m; sourceTree = "<group>"; };
-		CADE674F2C0C8B0C00742651 /* 12-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "12-1.md"; sourceTree = "<group>"; };
-		CADE67512C0C98CD00742651 /* 14-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "14-1.md"; sourceTree = "<group>"; };
-		CADE67532C0C9F0A00742651 /* 15-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "15-1.md"; sourceTree = "<group>"; };
-		CAFAEA602C0608DB005260CA /* 7-1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "7-1.md"; sourceTree = "<group>"; };
 		F3820A15859735D2526225B8 /* Pods-MyStudyiOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyStudyiOSTests.debug.xcconfig"; path = "Target Support Files/Pods-MyStudyiOSTests/Pods-MyStudyiOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -285,7 +269,7 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		CA15946F2C19DD54009BCD1D /* JK100025901-study */ = {
+		CA15946F2C19DD54009BCD1D /* JK100025901 */ = {
 			isa = PBXGroup;
 			children = (
 				CA1594702C19DD6C009BCD1D /* Chapter2 */,
@@ -293,7 +277,7 @@
 				CA5EF64F2C303141005242E7 /* Chapter4 */,
 				CA5EF6532C303719005242E7 /* README.md */,
 			);
-			path = "JK100025901-study";
+			path = JK100025901;
 			sourceTree = "<group>";
 		};
 		CA1594702C19DD6C009BCD1D /* Chapter2 */ = {
@@ -329,14 +313,6 @@
 			path = Chapter2;
 			sourceTree = "<group>";
 		};
-		CA203B232C08A68300643404 /* Chapter9 */ = {
-			isa = PBXGroup;
-			children = (
-				CA203B242C08A69C00643404 /* 9-1.md */,
-			);
-			path = Chapter9;
-			sourceTree = "<group>";
-		};
 		CA2EB0462C04B1930043B05C /* Chapter6 */ = {
 			isa = PBXGroup;
 			children = (
@@ -352,14 +328,6 @@
 				CA2EB0492C04CE790043B05C /* NSTimer+WeakTimer.m */,
 			);
 			path = Example1;
-			sourceTree = "<group>";
-		};
-		CA4C00722C00C1E900803679 /* Chapter5 */ = {
-			isa = PBXGroup;
-			children = (
-				CA4C00732C00C20E00803679 /* 5-1.md */,
-			);
-			path = Chapter5;
 			sourceTree = "<group>";
 		};
 		CA5282422BFAFB4100645ED3 = {
@@ -387,9 +355,9 @@
 		CA52824D2BFAFB4100645ED3 /* MyStudyiOS */ = {
 			isa = PBXGroup;
 			children = (
-				CA6D69412C4CAF7000205316 /* OC-Official-study */,
-				CA15946F2C19DD54009BCD1D /* JK100025901-study */,
-				CA52827E2BFAFDCB00645ED3 /* MKSZ202-study */,
+				CA6D69412C4CAF7000205316 /* OC-Official */,
+				CA15946F2C19DD54009BCD1D /* JK100025901 */,
+				CA52827E2BFAFDCB00645ED3 /* MKSZ202 */,
 				CA52824E2BFAFB4100645ED3 /* AppDelegate.swift */,
 				CA5282502BFAFB4100645ED3 /* SceneDelegate.swift */,
 				CA5282522BFAFB4100645ED3 /* ViewController.swift */,
@@ -419,34 +387,16 @@
 			path = MyStudyiOSUITests;
 			sourceTree = "<group>";
 		};
-		CA52827E2BFAFDCB00645ED3 /* MKSZ202-study */ = {
+		CA52827E2BFAFDCB00645ED3 /* MKSZ202 */ = {
 			isa = PBXGroup;
 			children = (
-				CA5282802BFB1E1700645ED3 /* Chapter2 */,
 				CA5282832BFB2F5F00645ED3 /* Chapter3 */,
 				CAC960DB2BFD8D620035D2F2 /* Chapter4 */,
-				CA4C00722C00C1E900803679 /* Chapter5 */,
 				CA2EB0462C04B1930043B05C /* Chapter6 */,
-				CAFAEA5F2C0608C5005260CA /* Chapter7 */,
-				CA80A1AA2C07521E0095433F /* Chapter8 */,
-				CA203B232C08A68300643404 /* Chapter9 */,
-				CADE671E2C0C4E7B00742651 /* Chapter10 */,
 				CADE67202C0C4EBC00742651 /* Chapter11 */,
-				CADE674E2C0C8ADB00742651 /* Chapter12 */,
-				CADE67502C0C98B500742651 /* Chapter14 */,
-				CADE67522C0C9EF000742651 /* Chapter15 */,
 				CA52827F2BFB083800645ED3 /* README.md */,
 			);
-			path = "MKSZ202-study";
-			sourceTree = "<group>";
-		};
-		CA5282802BFB1E1700645ED3 /* Chapter2 */ = {
-			isa = PBXGroup;
-			children = (
-				CA5282812BFB1E6400645ED3 /* 2-1.md */,
-				CA5282822BFB207400645ED3 /* 2-2.md */,
-			);
-			path = Chapter2;
+			path = MKSZ202;
 			sourceTree = "<group>";
 		};
 		CA5282832BFB2F5F00645ED3 /* Chapter3 */ = {
@@ -492,20 +442,19 @@
 			path = Chapter4;
 			sourceTree = "<group>";
 		};
-		CA6D69412C4CAF7000205316 /* OC-Official-study */ = {
+		CA6D69412C4CAF7000205316 /* OC-Official */ = {
 			isa = PBXGroup;
 			children = (
 				CA6D69442C4CB05100205316 /* Chapter2 */,
 				CA6D69422C4CAFE600205316 /* README.md */,
 			);
-			path = "OC-Official-study";
+			path = "OC-Official";
 			sourceTree = "<group>";
 		};
 		CA6D69442C4CB05100205316 /* Chapter2 */ = {
 			isa = PBXGroup;
 			children = (
 				CA6D69462C4CB15B00205316 /* Example1 */,
-				CA6D69452C4CB07900205316 /* chapter2.md */,
 			);
 			path = Chapter2;
 			sourceTree = "<group>";
@@ -557,18 +506,9 @@
 			path = Chapter3;
 			sourceTree = "<group>";
 		};
-		CA80A1AA2C07521E0095433F /* Chapter8 */ = {
-			isa = PBXGroup;
-			children = (
-				CA80A1AB2C07523B0095433F /* 8-1.md */,
-			);
-			path = Chapter8;
-			sourceTree = "<group>";
-		};
 		CA8BA3332C0F520100D9DFC8 /* 6-1 */ = {
 			isa = PBXGroup;
 			children = (
-				CA2EB0472C04B1AF0043B05C /* 6-1.md */,
 				CA2EB04B2C04CE7F0043B05C /* Example1 */,
 			);
 			path = "6-1";
@@ -577,7 +517,6 @@
 		CA8BA3342C0F523B00D9DFC8 /* 11-1 */ = {
 			isa = PBXGroup;
 			children = (
-				CADE67212C0C4ED400742651 /* 11-1.md */,
 				CADE67222C0C561800742651 /* Example1 */,
 				CADE67262C0C562F00742651 /* Example2 */,
 				CADE673C2C0C56EB00742651 /* Example3 */,
@@ -603,7 +542,6 @@
 		CAA14FE52BFC419F00B27FAD /* 3-1 */ = {
 			isa = PBXGroup;
 			children = (
-				CA5282842BFB2F8D00645ED3 /* 3-1.md */,
 				CA5282852BFB308000645ED3 /* Example1 */,
 				CAA14FE62BFC47AA00B27FAD /* Example2 */,
 			);
@@ -645,19 +583,10 @@
 		CAC960E42BFDC58D0035D2F2 /* 4-1 */ = {
 			isa = PBXGroup;
 			children = (
-				CAC960DC2BFD8D7F0035D2F2 /* 4-1.md */,
 				CAC960DD2BFDC46C0035D2F2 /* Example1 */,
 				CA8BA3352C0F525400D9DFC8 /* Example2 */,
 			);
 			path = "4-1";
-			sourceTree = "<group>";
-		};
-		CADE671E2C0C4E7B00742651 /* Chapter10 */ = {
-			isa = PBXGroup;
-			children = (
-				CADE671D2C0C4E7B00742651 /* 10-1.md */,
-			);
-			path = Chapter10;
 			sourceTree = "<group>";
 		};
 		CADE67202C0C4EBC00742651 /* Chapter11 */ = {
@@ -727,38 +656,6 @@
 				CADE674B2C0C59AC00742651 /* CommandManager.m */,
 			);
 			path = Example5;
-			sourceTree = "<group>";
-		};
-		CADE674E2C0C8ADB00742651 /* Chapter12 */ = {
-			isa = PBXGroup;
-			children = (
-				CADE674F2C0C8B0C00742651 /* 12-1.md */,
-			);
-			path = Chapter12;
-			sourceTree = "<group>";
-		};
-		CADE67502C0C98B500742651 /* Chapter14 */ = {
-			isa = PBXGroup;
-			children = (
-				CADE67512C0C98CD00742651 /* 14-1.md */,
-			);
-			path = Chapter14;
-			sourceTree = "<group>";
-		};
-		CADE67522C0C9EF000742651 /* Chapter15 */ = {
-			isa = PBXGroup;
-			children = (
-				CADE67532C0C9F0A00742651 /* 15-1.md */,
-			);
-			path = Chapter15;
-			sourceTree = "<group>";
-		};
-		CAFAEA5F2C0608C5005260CA /* Chapter7 */ = {
-			isa = PBXGroup;
-			children = (
-				CAFAEA602C0608DB005260CA /* 7-1.md */,
-			);
-			path = Chapter7;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -872,7 +769,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA5282582BFAFB4200645ED3 /* Assets.xcassets in Resources */,
-				CADE671F2C0C4E7B00742651 /* 10-1.md in Resources */,
 				CA52825B2BFAFB4200645ED3 /* Base in Resources */,
 				CA5282562BFAFB4100645ED3 /* Base in Resources */,
 			);
