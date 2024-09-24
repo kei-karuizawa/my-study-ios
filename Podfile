@@ -17,6 +17,7 @@ target 'MyStudyiOS' do
 
   # Pods for MyStudyiOS
   pod 'Alamofire'
+  pod 'lottie-ios'
 
   target 'MyStudyiOSTests' do
     inherit! :search_paths
