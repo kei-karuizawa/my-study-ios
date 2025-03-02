@@ -1,20 +1,50 @@
 PODS:
   - Alamofire (5.9.1)
+  - KirihaCodeKit (0.0.2):
+    - KirihaCodeKit/KCKCore (= 0.0.2)
+  - KirihaCodeKit/KCKCore (0.0.2):
+    - SDWebImage
+    - SnapKit
   - lottie-ios (4.5.0)
+  - RxCocoa (6.8.0):
+    - RxRelay (= 6.8.0)
+    - RxSwift (= 6.8.0)
+  - RxRelay (6.8.0):
+    - RxSwift (= 6.8.0)
+  - RxSwift (6.8.0)
+  - SDWebImage (5.19.6):
+    - SDWebImage/Core (= 5.19.6)
+  - SDWebImage/Core (5.19.6)
+  - SnapKit (5.7.1)
 
 DEPENDENCIES:
   - Alamofire
+  - KirihaCodeKit
   - lottie-ios
+  - RxCocoa
+  - RxSwift
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - KirihaCodeKit
     - lottie-ios
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SnapKit
 
 SPEC CHECKSUMS:
   Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  KirihaCodeKit: f5eae87177a9e88040cc2de73aa1359aecf4c36c
   lottie-ios: a881093fab623c467d3bce374367755c272bdd59
+  RxCocoa: 2d33c1e1e5d66492052ad46b11024ae287572880
+  RxRelay: 335c78b926a2aea8d863a6d25f1ed3b5ad8e8705
+  RxSwift: 4e28be97cbcfeee614af26d83415febbf2bf6f45
+  SDWebImage: a79252b60f4678812d94316c91da69ec83089c9f
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
 
-PODFILE CHECKSUM: 6dfdc0dba7ced61cdae62fec1bf6df64c23ca08c
+PODFILE CHECKSUM: 06b84a611bcaeb04aa105e7ebc80af6ed5a8cc10
 
 COCOAPODS: 1.15.2

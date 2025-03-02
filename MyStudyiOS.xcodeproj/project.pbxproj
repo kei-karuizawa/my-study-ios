@@ -11,9 +11,7 @@
 		7A858E9B8C3915536E55D5B3 /* Pods_MyStudyiOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E1FBF968B4ABDF3595B10BE /* Pods_MyStudyiOS.framework */; };
 		CA2EB04A2C04CE790043B05C /* NSTimer+WeakTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = CA2EB0492C04CE790043B05C /* NSTimer+WeakTimer.m */; };
 		CA52824F2BFAFB4100645ED3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA52824E2BFAFB4100645ED3 /* AppDelegate.swift */; };
-		CA5282512BFAFB4100645ED3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5282502BFAFB4100645ED3 /* SceneDelegate.swift */; };
 		CA5282532BFAFB4100645ED3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5282522BFAFB4100645ED3 /* ViewController.swift */; };
-		CA5282562BFAFB4100645ED3 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CA5282552BFAFB4100645ED3 /* Base */; };
 		CA5282582BFAFB4200645ED3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA5282572BFAFB4200645ED3 /* Assets.xcassets */; };
 		CA52825B2BFAFB4200645ED3 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CA52825A2BFAFB4200645ED3 /* Base */; };
 		CA5282662BFAFB4200645ED3 /* MyStudyiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5282652BFAFB4200645ED3 /* MyStudyiOSTests.swift */; };
@@ -32,6 +30,8 @@
 		CAC960E02BFDC4980035D2F2 /* MObject.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960DF2BFDC4980035D2F2 /* MObject.m */; };
 		CAC960E32BFDC54F0035D2F2 /* MObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960E22BFDC54F0035D2F2 /* MObserver.m */; };
 		CAC960E72BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC960E62BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m */; };
+		CAD1740C2CF805A8002267FB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CAD1740B2CF805A8002267FB /* README.md */; };
+		CAD174122CF80632002267FB /* JK100025901Course0368Example1.m in Sources */ = {isa = PBXBuildFile; fileRef = CAD174112CF80632002267FB /* JK100025901Course0368Example1.m */; };
 		CADE67252C0C562A00742651 /* BusinessObject.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE67242C0C562A00742651 /* BusinessObject.m */; };
 		CADE67352C0C565500742651 /* BridgeDemo.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE67292C0C565500742651 /* BridgeDemo.m */; };
 		CADE67362C0C565500742651 /* ObjectA1.m in Sources */ = {isa = PBXBuildFile; fileRef = CADE672A2C0C565500742651 /* ObjectA1.m */; };
@@ -78,9 +78,7 @@
 		CA2EB0492C04CE790043B05C /* NSTimer+WeakTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+WeakTimer.m"; sourceTree = "<group>"; };
 		CA52824B2BFAFB4100645ED3 /* MyStudyiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyStudyiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA52824E2BFAFB4100645ED3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CA5282502BFAFB4100645ED3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		CA5282522BFAFB4100645ED3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		CA5282552BFAFB4100645ED3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CA5282572BFAFB4200645ED3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CA52825A2BFAFB4200645ED3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CA52825C2BFAFB4200645ED3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -118,6 +116,9 @@
 		CAC960E22BFDC54F0035D2F2 /* MObserver.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MObserver.m; sourceTree = "<group>"; };
 		CAC960E52BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course41Example1AppDelegate.h; sourceTree = "<group>"; };
 		CAC960E62BFDC7DA0035D2F2 /* MKSZ202Course41Example1AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course41Example1AppDelegate.m; sourceTree = "<group>"; };
+		CAD1740B2CF805A8002267FB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CAD174102CF80632002267FB /* JK100025901Course0368Example1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JK100025901Course0368Example1.h; sourceTree = "<group>"; };
+		CAD174112CF80632002267FB /* JK100025901Course0368Example1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JK100025901Course0368Example1.m; sourceTree = "<group>"; };
 		CADE67232C0C562A00742651 /* BusinessObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BusinessObject.h; sourceTree = "<group>"; };
 		CADE67242C0C562A00742651 /* BusinessObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BusinessObject.m; sourceTree = "<group>"; };
 		CADE67272C0C565500742651 /* BaseObjectA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseObjectA.h; sourceTree = "<group>"; };
@@ -240,12 +241,12 @@
 		CA52824D2BFAFB4100645ED3 /* MyStudyiOS */ = {
 			isa = PBXGroup;
 			children = (
+				CAD1740A2CF8058E002267FB /* JK100025901 */,
+				CA6C3E272CF466CD003645BE /* study-myself */,
 				CA6D69412C4CAF7000205316 /* OC-Official */,
 				CA52827E2BFAFDCB00645ED3 /* MKSZ202 */,
 				CA52824E2BFAFB4100645ED3 /* AppDelegate.swift */,
-				CA5282502BFAFB4100645ED3 /* SceneDelegate.swift */,
 				CA5282522BFAFB4100645ED3 /* ViewController.swift */,
-				CA5282542BFAFB4100645ED3 /* Main.storyboard */,
 				CA5282862BFB30B600645ED3 /* MyStudyiOS-Bridging-Header.h */,
 				CA5282572BFAFB4200645ED3 /* Assets.xcassets */,
 				CA5282592BFAFB4200645ED3 /* LaunchScreen.storyboard */,
@@ -302,6 +303,21 @@
 				CA5282882BFB30B600645ED3 /* ViewReusePool.m */,
 			);
 			path = Example1;
+			sourceTree = "<group>";
+		};
+		CA6C3E272CF466CD003645BE /* study-myself */ = {
+			isa = PBXGroup;
+			children = (
+				CA6C3E282CF466DC003645BE /* UINavigationController */,
+			);
+			path = "study-myself";
+			sourceTree = "<group>";
+		};
+		CA6C3E282CF466DC003645BE /* UINavigationController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = UINavigationController;
 			sourceTree = "<group>";
 		};
 		CA6D69412C4CAF7000205316 /* OC-Official */ = {
@@ -413,6 +429,24 @@
 				CA8BA3352C0F525400D9DFC8 /* Example2 */,
 			);
 			path = "4-1";
+			sourceTree = "<group>";
+		};
+		CAD1740A2CF8058E002267FB /* JK100025901 */ = {
+			isa = PBXGroup;
+			children = (
+				CAD1740B2CF805A8002267FB /* README.md */,
+				CAD1740D2CF805CC002267FB /* Chapter3 */,
+			);
+			path = JK100025901;
+			sourceTree = "<group>";
+		};
+		CAD1740D2CF805CC002267FB /* Chapter3 */ = {
+			isa = PBXGroup;
+			children = (
+				CAD174102CF80632002267FB /* JK100025901Course0368Example1.h */,
+				CAD174112CF80632002267FB /* JK100025901Course0368Example1.m */,
+			);
+			path = Chapter3;
 			sourceTree = "<group>";
 		};
 		CADE67202C0C4EBC00742651 /* Chapter11 */ = {
@@ -594,9 +628,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CAD1740C2CF805A8002267FB /* README.md in Resources */,
 				CA5282582BFAFB4200645ED3 /* Assets.xcassets in Resources */,
 				CA52825B2BFAFB4200645ED3 /* Base in Resources */,
-				CA5282562BFAFB4100645ED3 /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -738,13 +772,13 @@
 				CAA14FE92BFC47FF00B27FAD /* CustomButton.m in Sources */,
 				CA8BA3412C0F538700D9DFC8 /* MKSZ202Course0401Person+Age.m in Sources */,
 				CADE67362C0C565500742651 /* ObjectA1.m in Sources */,
-				CA5282512BFAFB4100645ED3 /* SceneDelegate.swift in Sources */,
 				CA8BA3382C0F529500D9DFC8 /* MKSZ202Course0401Person.m in Sources */,
 				CAA14FEC2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m in Sources */,
 				CADE67462C0C580200742651 /* Mooc.m in Sources */,
 				CA52828C2BFB33AF00645ED3 /* IndexedTableView.m in Sources */,
 				CADE674C2C0C59AC00742651 /* Command.m in Sources */,
 				CA6D69492C4CB1A000205316 /* OCOfficialStudy02Example1XYZPerson.m in Sources */,
+				CAD174122CF80632002267FB /* JK100025901Course0368Example1.m in Sources */,
 				CADE674D2C0C59AC00742651 /* CommandManager.m in Sources */,
 				CADE67412C0C56FF00742651 /* CoolTarget.m in Sources */,
 				CAC960E02BFDC4980035D2F2 /* MObject.m in Sources */,
@@ -786,14 +820,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		CA5282542BFAFB4100645ED3 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				CA5282552BFAFB4100645ED3 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		CA5282592BFAFB4200645ED3 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -940,7 +966,7 @@
 				INFOPLIST_FILE = MyStudyiOS/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -976,7 +1002,7 @@
 				INFOPLIST_FILE = MyStudyiOS/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
