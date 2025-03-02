@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         
-        let viewController = ViewController()
+        let viewController = CalculatorViewController()
         let navigationController = UINavigationController(rootViewController: viewController)
         navigationController.navigationBar.backgroundColor = .red
         navigationController.navigationBar.isTranslucent = false

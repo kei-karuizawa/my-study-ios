@@ -22,6 +22,7 @@
 		CA52828F2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA52828E2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m */; };
 		CA6D69492C4CB1A000205316 /* OCOfficialStudy02Example1XYZPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = CA6D69482C4CB1A000205316 /* OCOfficialStudy02Example1XYZPerson.m */; };
 		CA6D70B52C4CC97D00205316 /* OCOfficialStudy0201Example1XYZShoutingPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = CA6D70B42C4CC97D00205316 /* OCOfficialStudy0201Example1XYZShoutingPerson.m */; };
+		CA7F40A12D7476DF009F10C3 /* CalculatorTestDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA7F40A02D7476DF009F10C3 /* CalculatorTestDemo.swift */; };
 		CA8BA3382C0F529500D9DFC8 /* MKSZ202Course0401Person.m in Sources */ = {isa = PBXBuildFile; fileRef = CA8BA3372C0F529500D9DFC8 /* MKSZ202Course0401Person.m */; };
 		CA8BA3412C0F538700D9DFC8 /* MKSZ202Course0401Person+Age.m in Sources */ = {isa = PBXBuildFile; fileRef = CA8BA3402C0F538700D9DFC8 /* MKSZ202Course0401Person+Age.m */; };
 		CA8BA3472C0F561B00D9DFC8 /* MKSZ202Course0401UsePersonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA8BA3462C0F561B00D9DFC8 /* MKSZ202Course0401UsePersonViewController.m */; };
@@ -100,6 +101,7 @@
 		CA6D69482C4CB1A000205316 /* OCOfficialStudy02Example1XYZPerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OCOfficialStudy02Example1XYZPerson.m; sourceTree = "<group>"; };
 		CA6D70B32C4CC97D00205316 /* OCOfficialStudy0201Example1XYZShoutingPerson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OCOfficialStudy0201Example1XYZShoutingPerson.h; sourceTree = "<group>"; };
 		CA6D70B42C4CC97D00205316 /* OCOfficialStudy0201Example1XYZShoutingPerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OCOfficialStudy0201Example1XYZShoutingPerson.m; sourceTree = "<group>"; };
+		CA7F40A02D7476DF009F10C3 /* CalculatorTestDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorTestDemo.swift; sourceTree = "<group>"; };
 		CA8BA3362C0F529500D9DFC8 /* MKSZ202Course0401Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course0401Person.h; sourceTree = "<group>"; };
 		CA8BA3372C0F529500D9DFC8 /* MKSZ202Course0401Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course0401Person.m; sourceTree = "<group>"; };
 		CA8BA33F2C0F538700D9DFC8 /* MKSZ202Course0401Person+Age.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MKSZ202Course0401Person+Age.h"; sourceTree = "<group>"; };
@@ -241,6 +243,7 @@
 		CA52824D2BFAFB4100645ED3 /* MyStudyiOS */ = {
 			isa = PBXGroup;
 			children = (
+				CA7F40A02D7476DF009F10C3 /* CalculatorTestDemo.swift */,
 				CAD1740A2CF8058E002267FB /* JK100025901 */,
 				CA6C3E272CF466CD003645BE /* study-myself */,
 				CA6D69412C4CAF7000205316 /* OC-Official */,
@@ -777,6 +780,7 @@
 				CADE67462C0C580200742651 /* Mooc.m in Sources */,
 				CA52828C2BFB33AF00645ED3 /* IndexedTableView.m in Sources */,
 				CADE674C2C0C59AC00742651 /* Command.m in Sources */,
+				CA7F40A12D7476DF009F10C3 /* CalculatorTestDemo.swift in Sources */,
 				CA6D69492C4CB1A000205316 /* OCOfficialStudy02Example1XYZPerson.m in Sources */,
 				CAD174122CF80632002267FB /* JK100025901Course0368Example1.m in Sources */,
 				CADE674D2C0C59AC00742651 /* CommandManager.m in Sources */,
