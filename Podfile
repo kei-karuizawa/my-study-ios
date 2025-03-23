@@ -21,6 +21,7 @@ target 'MyStudyiOS' do
   pod 'RxSwift'
   pod 'RxCocoa'
   pod 'KirihaCodeKit'
+  pod 'FSPagerView'
 
   target 'MyStudyiOSTests' do
     inherit! :search_paths

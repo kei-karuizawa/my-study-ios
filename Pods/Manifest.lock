@@ -1,5 +1,6 @@
 PODS:
   - Alamofire (5.9.1)
+  - FSPagerView (0.8.3)
   - KirihaCodeKit (0.0.2):
     - KirihaCodeKit/KCKCore (= 0.0.2)
   - KirihaCodeKit/KCKCore (0.0.2):
@@ -19,6 +20,7 @@ PODS:
 
 DEPENDENCIES:
   - Alamofire
+  - FSPagerView
   - KirihaCodeKit
   - lottie-ios
   - RxCocoa
@@ -27,6 +29,7 @@ DEPENDENCIES:
 SPEC REPOS:
   trunk:
     - Alamofire
+    - FSPagerView
     - KirihaCodeKit
     - lottie-ios
     - RxCocoa
@@ -37,6 +40,7 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
   KirihaCodeKit: f5eae87177a9e88040cc2de73aa1359aecf4c36c
   lottie-ios: a881093fab623c467d3bce374367755c272bdd59
   RxCocoa: 2d33c1e1e5d66492052ad46b11024ae287572880
@@ -45,6 +49,6 @@ SPEC CHECKSUMS:
   SDWebImage: a79252b60f4678812d94316c91da69ec83089c9f
   SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
 
-PODFILE CHECKSUM: 06b84a611bcaeb04aa105e7ebc80af6ed5a8cc10
+PODFILE CHECKSUM: 8479d3ca72e319310ac08d712b94c9a9e14833b6
 
 COCOAPODS: 1.15.2

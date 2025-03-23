@@ -10,6 +10,10 @@
 		29E6D2F0D8F641427B60E40D /* Pods_MyStudyiOSTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5CF4C1F67DDC3C1C3360CF90 /* Pods_MyStudyiOSTests.framework */; };
 		7A858E9B8C3915536E55D5B3 /* Pods_MyStudyiOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E1FBF968B4ABDF3595B10BE /* Pods_MyStudyiOS.framework */; };
 		CA2EB04A2C04CE790043B05C /* NSTimer+WeakTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = CA2EB0492C04CE790043B05C /* NSTimer+WeakTimer.m */; };
+		CA4629A82D8E3D9000BF7C0A /* ScrollableText.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA4629A72D8E3D9000BF7C0A /* ScrollableText.swift */; };
+		CA4D01D52D8E9F8E00A70B8E /* SelectableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA4D01D42D8E9F8E00A70B8E /* SelectableButton.swift */; };
+		CA4D01D72D8EAB5100A70B8E /* CarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA4D01D62D8EAB5100A70B8E /* CarouselView.swift */; };
+		CA4D01FD2D8EC8B700A70B8E /* PagingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA4D01FC2D8EC8B700A70B8E /* PagingViewController.swift */; };
 		CA52824F2BFAFB4100645ED3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA52824E2BFAFB4100645ED3 /* AppDelegate.swift */; };
 		CA5282532BFAFB4100645ED3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5282522BFAFB4100645ED3 /* ViewController.swift */; };
 		CA5282582BFAFB4200645ED3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA5282572BFAFB4200645ED3 /* Assets.xcassets */; };
@@ -22,7 +26,6 @@
 		CA52828F2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA52828E2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m */; };
 		CA6D69492C4CB1A000205316 /* OCOfficialStudy02Example1XYZPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = CA6D69482C4CB1A000205316 /* OCOfficialStudy02Example1XYZPerson.m */; };
 		CA6D70B52C4CC97D00205316 /* OCOfficialStudy0201Example1XYZShoutingPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = CA6D70B42C4CC97D00205316 /* OCOfficialStudy0201Example1XYZShoutingPerson.m */; };
-		CA7F40A12D7476DF009F10C3 /* CalculatorTestDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA7F40A02D7476DF009F10C3 /* CalculatorTestDemo.swift */; };
 		CA8BA3382C0F529500D9DFC8 /* MKSZ202Course0401Person.m in Sources */ = {isa = PBXBuildFile; fileRef = CA8BA3372C0F529500D9DFC8 /* MKSZ202Course0401Person.m */; };
 		CA8BA3412C0F538700D9DFC8 /* MKSZ202Course0401Person+Age.m in Sources */ = {isa = PBXBuildFile; fileRef = CA8BA3402C0F538700D9DFC8 /* MKSZ202Course0401Person+Age.m */; };
 		CA8BA3472C0F561B00D9DFC8 /* MKSZ202Course0401UsePersonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA8BA3462C0F561B00D9DFC8 /* MKSZ202Course0401UsePersonViewController.m */; };
@@ -77,6 +80,10 @@
 		ADF311C2525D086079C67462 /* Pods-MyStudyiOS-MyStudyiOSUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyStudyiOS-MyStudyiOSUITests.release.xcconfig"; path = "Target Support Files/Pods-MyStudyiOS-MyStudyiOSUITests/Pods-MyStudyiOS-MyStudyiOSUITests.release.xcconfig"; sourceTree = "<group>"; };
 		CA2EB0482C04CE790043B05C /* NSTimer+WeakTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+WeakTimer.h"; sourceTree = "<group>"; };
 		CA2EB0492C04CE790043B05C /* NSTimer+WeakTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+WeakTimer.m"; sourceTree = "<group>"; };
+		CA4629A72D8E3D9000BF7C0A /* ScrollableText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollableText.swift; sourceTree = "<group>"; };
+		CA4D01D42D8E9F8E00A70B8E /* SelectableButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectableButton.swift; sourceTree = "<group>"; };
+		CA4D01D62D8EAB5100A70B8E /* CarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselView.swift; sourceTree = "<group>"; };
+		CA4D01FC2D8EC8B700A70B8E /* PagingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagingViewController.swift; sourceTree = "<group>"; };
 		CA52824B2BFAFB4100645ED3 /* MyStudyiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyStudyiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA52824E2BFAFB4100645ED3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CA5282522BFAFB4100645ED3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,7 +108,6 @@
 		CA6D69482C4CB1A000205316 /* OCOfficialStudy02Example1XYZPerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OCOfficialStudy02Example1XYZPerson.m; sourceTree = "<group>"; };
 		CA6D70B32C4CC97D00205316 /* OCOfficialStudy0201Example1XYZShoutingPerson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OCOfficialStudy0201Example1XYZShoutingPerson.h; sourceTree = "<group>"; };
 		CA6D70B42C4CC97D00205316 /* OCOfficialStudy0201Example1XYZShoutingPerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OCOfficialStudy0201Example1XYZShoutingPerson.m; sourceTree = "<group>"; };
-		CA7F40A02D7476DF009F10C3 /* CalculatorTestDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorTestDemo.swift; sourceTree = "<group>"; };
 		CA8BA3362C0F529500D9DFC8 /* MKSZ202Course0401Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MKSZ202Course0401Person.h; sourceTree = "<group>"; };
 		CA8BA3372C0F529500D9DFC8 /* MKSZ202Course0401Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MKSZ202Course0401Person.m; sourceTree = "<group>"; };
 		CA8BA33F2C0F538700D9DFC8 /* MKSZ202Course0401Person+Age.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MKSZ202Course0401Person+Age.h"; sourceTree = "<group>"; };
@@ -243,7 +249,6 @@
 		CA52824D2BFAFB4100645ED3 /* MyStudyiOS */ = {
 			isa = PBXGroup;
 			children = (
-				CA7F40A02D7476DF009F10C3 /* CalculatorTestDemo.swift */,
 				CAD1740A2CF8058E002267FB /* JK100025901 */,
 				CA6C3E272CF466CD003645BE /* study-myself */,
 				CA6D69412C4CAF7000205316 /* OC-Official */,
@@ -254,6 +259,10 @@
 				CA5282572BFAFB4200645ED3 /* Assets.xcassets */,
 				CA5282592BFAFB4200645ED3 /* LaunchScreen.storyboard */,
 				CA52825C2BFAFB4200645ED3 /* Info.plist */,
+				CA4629A72D8E3D9000BF7C0A /* ScrollableText.swift */,
+				CA4D01D42D8E9F8E00A70B8E /* SelectableButton.swift */,
+				CA4D01D62D8EAB5100A70B8E /* CarouselView.swift */,
+				CA4D01FC2D8EC8B700A70B8E /* PagingViewController.swift */,
 			);
 			path = MyStudyiOS;
 			sourceTree = "<group>";
@@ -758,16 +767,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				CADE67372C0C565500742651 /* ObjectB2.m in Sources */,
+				CA4D01D52D8E9F8E00A70B8E /* SelectableButton.swift in Sources */,
 				CA2EB04A2C04CE790043B05C /* NSTimer+WeakTimer.m in Sources */,
 				CA8BA3472C0F561B00D9DFC8 /* MKSZ202Course0401UsePersonViewController.m in Sources */,
 				CADE67352C0C565500742651 /* BridgeDemo.m in Sources */,
 				CA5282532BFAFB4100645ED3 /* ViewController.swift in Sources */,
 				CADE673B2C0C565500742651 /* BaseObjectB.m in Sources */,
+				CA4629A82D8E3D9000BF7C0A /* ScrollableText.swift in Sources */,
 				CA6D70B52C4CC97D00205316 /* OCOfficialStudy0201Example1XYZShoutingPerson.m in Sources */,
 				CADE67382C0C565500742651 /* BaseObjectA.m in Sources */,
 				CAC960E32BFDC54F0035D2F2 /* MObserver.m in Sources */,
 				CA52824F2BFAFB4100645ED3 /* AppDelegate.swift in Sources */,
 				CA52828F2BFB4A4700645ED3 /* MKSZ202Course31Example1ViewController.m in Sources */,
+				CA4D01D72D8EAB5100A70B8E /* CarouselView.swift in Sources */,
 				CADE673A2C0C565500742651 /* ObjectA2.m in Sources */,
 				CADE67422C0C56FF00742651 /* Target.m in Sources */,
 				CADE67252C0C562A00742651 /* BusinessObject.m in Sources */,
@@ -776,11 +788,11 @@
 				CA8BA3412C0F538700D9DFC8 /* MKSZ202Course0401Person+Age.m in Sources */,
 				CADE67362C0C565500742651 /* ObjectA1.m in Sources */,
 				CA8BA3382C0F529500D9DFC8 /* MKSZ202Course0401Person.m in Sources */,
+				CA4D01FD2D8EC8B700A70B8E /* PagingViewController.swift in Sources */,
 				CAA14FEC2BFC718E00B27FAD /* MKSZ202Course31Example2ViewController.m in Sources */,
 				CADE67462C0C580200742651 /* Mooc.m in Sources */,
 				CA52828C2BFB33AF00645ED3 /* IndexedTableView.m in Sources */,
 				CADE674C2C0C59AC00742651 /* Command.m in Sources */,
-				CA7F40A12D7476DF009F10C3 /* CalculatorTestDemo.swift in Sources */,
 				CA6D69492C4CB1A000205316 /* OCOfficialStudy02Example1XYZPerson.m in Sources */,
 				CAD174122CF80632002267FB /* JK100025901Course0368Example1.m in Sources */,
 				CADE674D2C0C59AC00742651 /* CommandManager.m in Sources */,
